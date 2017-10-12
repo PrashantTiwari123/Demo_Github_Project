@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"Testing");
+    NSLog(@"Testing");
+    NSLog(@"Testing");
+    NSLog(@"Testing");
 }
 
 
